@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tester",
+    "email": "test@test.com",
+    "password": "Iamtester"
+  },
+  {
+    "name": "Frank",
+    "email": "frank-smith@gmail.com",
+    "password": "BestMeetupEver"
+  },
+  {
+    "name": "Jane",
+    "email": "jane-miller@gmail.com",
+    "password": "MeetingTime"
+  },
+  {
+    "name": "Roy",
+    "email": "roy-jones@gmail.com",
+    "password": "GreatSpeaker"
+  }
+]
